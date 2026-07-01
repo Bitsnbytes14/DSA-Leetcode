@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0029-divide-two-integers) |
+## String
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

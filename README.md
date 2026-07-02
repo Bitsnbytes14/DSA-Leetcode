@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Two Pointers
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->

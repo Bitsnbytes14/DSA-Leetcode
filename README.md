@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0043-multiply-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0043-multiply-strings) |
 ## String Matching
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3620-network-recovery-pathways) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0047-permutations-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0047-permutations-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->

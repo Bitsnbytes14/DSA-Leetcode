@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0048-rotate-image) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
 | ------- |

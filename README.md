@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0062-unique-paths) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0062-unique-paths) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

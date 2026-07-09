@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1288-remove-covered-intervals](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
@@ -99,12 +101,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0035-search-insert-position) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0049-group-anagrams) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
 | ------- |

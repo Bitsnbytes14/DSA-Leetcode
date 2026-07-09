@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1288-remove-covered-intervals](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0043-multiply-strings](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0059-spiral-matrix-ii) |
 ## Greedy
 |  |
 | ------- |

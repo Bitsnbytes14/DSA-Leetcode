@@ -53,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0067-add-binary) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0067-add-binary) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0067-add-binary) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String Matching
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0067-add-binary) |
 ## Greedy
 |  |
 | ------- |

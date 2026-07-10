@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0067-add-binary) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String Matching

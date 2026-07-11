@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0066-plus-one) |
 | [1288-remove-covered-intervals](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |

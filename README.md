@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

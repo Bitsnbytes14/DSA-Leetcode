@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0071-simplify-path) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String Matching
 |  |
@@ -207,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->

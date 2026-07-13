@@ -212,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0071-simplify-path) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->

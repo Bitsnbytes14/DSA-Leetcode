@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0065-valid-number](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0072-edit-distance) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String Matching
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0072-edit-distance) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |

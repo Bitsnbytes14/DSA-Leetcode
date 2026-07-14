@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1288-remove-covered-intervals](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0036-valid-sudoku](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1331-rank-transform-of-an-array](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Backtracking

@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1288-remove-covered-intervals](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Enumeration
 |  |
 | ------- |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->

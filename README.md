@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |

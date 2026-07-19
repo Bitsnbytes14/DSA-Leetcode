@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0071-simplify-path](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0079-word-search) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String Matching
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0045-jump-game-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0055-jump-game) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0071-simplify-path](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |
 | ------- |
@@ -278,4 +281,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->

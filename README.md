@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0071-simplify-path](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0091-decode-ways) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String Matching
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0091-decode-ways) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |

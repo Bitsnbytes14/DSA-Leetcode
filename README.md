@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1331-rank-transform-of-an-array](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0486-predict-the-winner](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0486-predict-the-winner](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0486-predict-the-winner](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0095-unique-binary-search-trees-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0097-interleaving-string) |
+| [0486-predict-the-winner](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -428,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0175-combine-two-tables](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

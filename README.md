@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3310-remove-methods-from-project) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |

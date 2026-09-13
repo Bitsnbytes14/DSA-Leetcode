@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0486-predict-the-winner](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0079-word-search) |
+| [0835-image-overlap](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |

@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3483-unique-3-digit-even-numbers](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3524-find-x-value-of-array-i](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3524-find-x-value-of-array-i](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Bitsnbytes14/DSA-Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
